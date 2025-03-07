@@ -1,0 +1,26 @@
+{
+  "name": "website-builder-fronend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss7-compat": "^2.2.17",
+    "autoprefixer": "^9.8.8",
+    "axios": "^1.8.1",
+    "next": "latest",
+    "postcss": "^7.0.39",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.9",
+    "@types/react": "^19.0.10",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "typescript": "^5.8.2"
+  }
+}
